@@ -1,11 +1,10 @@
-package Rooms;
+package DynamicGameEngine.Rooms;
 
 import DynamicGameEngine.Engine;
 import DynamicGameEngine.Entities.Entity;
 
 import java.awt.*;
 import java.awt.event.KeyAdapter;
-import java.awt.event.KeyEvent;
 import java.util.ArrayList;
 
 /**

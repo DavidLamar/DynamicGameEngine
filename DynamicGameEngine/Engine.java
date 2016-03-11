@@ -1,3 +1,5 @@
+package DynamicGameEngine;
+
 import DynamicGameEngine.Exceptions.NoSuchRoomException;
 import DynamicGameEngine.Rooms.Room;
 

@@ -1,4 +1,4 @@
-package Exceptions;
+package DynamicGameEngine.Exceptions;
 
 /**
  * Created by David on 3/8/2016.

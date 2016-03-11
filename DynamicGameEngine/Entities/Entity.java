@@ -1,4 +1,4 @@
-package Entities;
+package DynamicGameEngine.Entities;
 
 import java.awt.*;
 

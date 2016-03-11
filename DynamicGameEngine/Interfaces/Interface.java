@@ -1,4 +1,4 @@
-package Interfaces;
+package DynamicGameEngine.Interfaces;
 
 /**
  * Created by David on 3/6/2016.
